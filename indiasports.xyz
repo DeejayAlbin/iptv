@@ -7,7 +7,20 @@ https://www.livekoora.online/
 https://kingfoot.tv/matche/2651/chelsea-vs-liverpool/
 Skip to content
 Search or jump to…
-
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 1 hd
+http://mobile.fobia.xyz/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 2 hd
+http://mobile.fobia.xyz/hls2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 3 hd
+http://mobile.fobia.xyz/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 4 hd
+http://mobile.fobia.xyz/hls4/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 5 hd
+http://mobile.fobia.xyz/hls5/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 6 hd
+http://mobile.fobia.xyz/hls6/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS وقت المباريات ",beIN Sport 7 hd
+http://mobile.fobia.xyz/hls7/stream.m3u8
 Pull requests
 Issues
 Marketplace
